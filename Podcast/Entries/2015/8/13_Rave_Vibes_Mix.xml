@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="E3AFCFFD-8D9B-4F4E-9BDB-D3995F3907EF">
+  <lastEdited clientType="local-build-20150821" date="2015-08-21 14:43:01 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Rave Vibes Mix&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&#xD;Rave Vibes Mix&#xD;       Album: Its Always Dark In The Jungle&#xD;      Produced By: Dylan Mccluney        Artist: Dj Dylz&#xD; Format: m4a                                       Time: 23:30&#xD;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Thursday, August 13, 2015&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Rave Vibes Mix</richText>
+  </textBox>
+</content>

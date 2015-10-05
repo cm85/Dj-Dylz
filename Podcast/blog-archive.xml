@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Podcast</title>
+    <link>http://cm85.github.io/DjDylz/Dj_Dylz/Podcast</link>
+    <description>1. Loud as FUCK Mix
+2. Drug Problem Mix
+3. Rompin Mini Mix
+Original Sin Inspired Mix
+Rave Vibes Mix
+Dark Day Mix
+The New Mix
+
+        By: Dj Dylz</description>
+    <item>
+      <title>The New Mix</title>
+      <link>http://cm85.github.io/DjDylz/Dj_Dylz/Podcast/Entries/2015/10/5_The_New_Mix.html</link>
+      <guid isPermaLink="false">d0428474-7900-4850-9a9f-e5dcecbd13d5</guid>
+      <pubDate>Mon, 5 Oct 2015 04:11:21 -0700</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://cm85.github.io/DjDylz/Dj_Dylz/Podcast/Entries/2015/10/5_The_New_Mix.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Dark Day Mix</title>
+      <link>http://cm85.github.io/DjDylz/Dj_Dylz/Podcast/Entries/2015/8/14_Dark_Day_Mix.html</link>
+      <guid isPermaLink="false">84f27652-7b7f-4f03-9fa1-ef24f0cb98fb</guid>
+      <pubDate>Fri, 14 Aug 2015 04:06:40 -0700</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://cm85.github.io/DjDylz/Dj_Dylz/Podcast/Entries/2015/8/14_Dark_Day_Mix.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Loud As FUCK Mix</title>
+      <link>http://cm85.github.io/DjDylz/Dj_Dylz/Podcast/Entries/2015/8/13_Loud_As_FUCK_Mix.html</link>
+      <guid isPermaLink="false">72eff07d-3b18-4883-9a63-4148076e535c</guid>
+      <pubDate>Thu, 13 Aug 2015 07:38:31 -0700</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://cm85.github.io/DjDylz/Dj_Dylz/Podcast/Entries/2015/8/13_Loud_As_FUCK_Mix.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Rave Vibes Mix</title>
+      <link>http://cm85.github.io/DjDylz/Dj_Dylz/Podcast/Entries/2015/8/13_Rave_Vibes_Mix.html</link>
+      <guid isPermaLink="false">fba640e0-c5bc-45d5-bd33-97ec0e02ff79</guid>
+      <pubDate>Thu, 13 Aug 2015 07:32:18 -0700</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://cm85.github.io/DjDylz/Dj_Dylz/Podcast/Entries/2015/8/13_Rave_Vibes_Mix.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Original Sin Inspired Mix</title>
+      <link>http://cm85.github.io/DjDylz/Dj_Dylz/Podcast/Entries/2015/8/13_Original_Sin_Inspired_Mix.html</link>
+      <guid isPermaLink="false">821f807c-c1e6-496d-9a69-5c7d9afa0aed</guid>
+      <pubDate>Thu, 13 Aug 2015 07:31:38 -0700</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://cm85.github.io/DjDylz/Dj_Dylz/Podcast/Entries/2015/8/13_Original_Sin_Inspired_Mix.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Drug Problem Mix</title>
+      <link>http://cm85.github.io/DjDylz/Dj_Dylz/Podcast/Entries/2015/8/12_Drug_Problem_Mix.html</link>
+      <guid isPermaLink="false">b7d97bf3-e1b7-4a2a-9932-4236d7c43faf</guid>
+      <pubDate>Wed, 12 Aug 2015 14:50:26 -0700</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://cm85.github.io/DjDylz/Dj_Dylz/Podcast/Entries/2015/8/12_Drug_Problem_Mix.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Rompin Mini Mix</title>
+      <link>http://cm85.github.io/DjDylz/Dj_Dylz/Podcast/Entries/2015/8/12_Rompin_Mini_Mix.html</link>
+      <guid isPermaLink="false">c263663f-9260-4be0-8a88-f39077d85827</guid>
+      <pubDate>Wed, 12 Aug 2015 14:50:11 -0700</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://cm85.github.io/DjDylz/Dj_Dylz/Podcast/Entries/2015/8/12_Rompin_Mini_Mix.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, y</iweb:dateFormat>
+    <iweb:baseURL>http://cm85.github.io/DjDylz/Dj_Dylz/Podcast</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

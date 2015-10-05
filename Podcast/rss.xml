@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>My Podcasts</title>
+    <link>http://cm85.github.io/DjDylz/Dj_Dylz/Podcast/Podcast.html</link>
+    <description>1. Loud as FUCK Mix&lt;br/&gt;2. Drug Problem Mix&lt;br/&gt;3. Rompin Mini Mix&lt;br/&gt;	1.	Original Sin Inspired Mix&lt;br/&gt;	2.	Rave Vibes Mix&lt;br/&gt;	3.	Dark Day Mix&lt;br/&gt;	4.	The New Mix&lt;br/&gt;&lt;br/&gt;        By: Dj Dylz</description>
+    <generator>iWeb 3.0.2</generator>
+    <image>
+      <url>http://cm85.github.io/DjDylz/Dj_Dylz/Podcast/Podcast_files/Dj%20Dylz.png</url>
+      <title>My Podcasts</title>
+      <link>http://cm85.github.io/DjDylz/Dj_Dylz/Podcast/Podcast.html</link>
+    </image>
+    <ttl>60</ttl>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:subtitle>1. Loud as FUCK Mix&#13;2. Drug Problem Mix&#13;3. Rompin Mini Mix&#13;	1.	Original Sin Inspired Mix&#13;	2.	Rave Vibes Mix&#13;	3.	Dark Day Mix&#13;	4.	The New Mix&#13;&#13;        By: Dj Dylz</itunes:subtitle>
+    <itunes:summary>1. Loud as FUCK Mix&#13;2. Drug Problem Mix&#13;3. Rompin Mini Mix&#13;	1.	Original Sin Inspired Mix&#13;	2.	Rave Vibes Mix&#13;	3.	Dark Day Mix&#13;	4.	The New Mix&#13;&#13;        By: Dj Dylz</itunes:summary>
+    <itunes:image href="http://cm85.github.io/DjDylz/Dj_Dylz/Podcast/Podcast_files/Dj%20Dylz.png"/>
+    <language>en</language>
+    <item>
+      <title>The New Mix</title>
+      <link>http://cm85.github.io/DjDylz/Dj_Dylz/Podcast/Entries/2015/10/5_The_New_Mix.html</link>
+      <guid isPermaLink="false">d0428474-7900-4850-9a9f-e5dcecbd13d5</guid>
+      <pubDate>Mon, 5 Oct 2015 04:11:21 -0700</pubDate>
+      <description>&lt;a href=&quot;http://cm85.github.io/DjDylz/Dj_Dylz/Media/04.mp3&quot;&gt;&lt;img src=&quot;http://cm85.github.io/DjDylz/Dj_Dylz/Podcast/Media/11%20The%20New%20Mix.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:157px; height:157px;&quot;/&gt;&lt;/a&gt;&lt;br/&gt;                The New Mix&lt;br/&gt;       Album: Dj Dylz Mixed Tapes&lt;br/&gt;      Produced By: Dylan Mccluney&lt;br/&gt;                 Artist: Dj Dylz&lt;br/&gt;                  Format: m4a&lt;br/&gt;                   Time: 26:26&lt;br/&gt;&lt;br/&gt;</description>
+      <enclosure url="http://cm85.github.io/DjDylz/Dj_Dylz/Media/04.mp3" length="50802299" type="audio/mpeg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>00:26:26</itunes:duration>
+      <itunes:subtitle>&#13;                The New Mix&#13;       Album: Dj Dylz Mixed Tapes&#13;      Produced By: Dylan Mccluney&#13;                 Artist: Dj Dylz&#13;                  Format: m4a&#13;                   Time: 26:26&#13;&#13;</itunes:subtitle>
+      <itunes:summary>&#13;                The New Mix&#13;       Album: Dj Dylz Mixed Tapes&#13;      Produced By: Dylan Mccluney&#13;                 Artist: Dj Dylz&#13;                  Format: m4a&#13;                   Time: 26:26&#13;&#13;</itunes:summary>
+    </item>
+    <item>
+      <title>Dark Day Mix</title>
+      <link>http://cm85.github.io/DjDylz/Dj_Dylz/Podcast/Entries/2015/8/14_Dark_Day_Mix.html</link>
+      <guid isPermaLink="false">84f27652-7b7f-4f03-9fa1-ef24f0cb98fb</guid>
+      <pubDate>Fri, 14 Aug 2015 04:06:40 -0700</pubDate>
+      <description>&lt;a href=&quot;http://cm85.github.io/DjDylz/Dj_Dylz/Media/11.m4a&quot;&gt;&lt;img src=&quot;http://cm85.github.io/DjDylz/Dj_Dylz/Podcast/Media/06%20Dark%20Day%20Mix.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:157px; height:157px;&quot;/&gt;&lt;/a&gt;&lt;br/&gt;                Dark Day Mix&lt;br/&gt;       Album: Dj Dylz Mixed Tapes&lt;br/&gt;      Produced By: Dylan Mccluney&lt;br/&gt;                 Artist: Dj Dylz&lt;br/&gt;                  Format: m4a&lt;br/&gt;                 Time: 01:28:34&lt;br/&gt;&lt;br/&gt;</description>
+      <enclosure url="http://cm85.github.io/DjDylz/Dj_Dylz/Media/11.m4a" length="43549747" type="audio/x-m4a"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>01:28:34</itunes:duration>
+      <itunes:subtitle>&#13;                Dark Day Mix&#13;       Album: Dj Dylz Mixed Tapes&#13;      Produced By: Dylan Mccluney&#13;                 Artist: Dj Dylz&#13;                  Format: m4a&#13;                 Time: 01:28:34&#13;&#13;</itunes:subtitle>
+      <itunes:summary>&#13;                Dark Day Mix&#13;       Album: Dj Dylz Mixed Tapes&#13;      Produced By: Dylan Mccluney&#13;                 Artist: Dj Dylz&#13;                  Format: m4a&#13;                 Time: 01:28:34&#13;&#13;</itunes:summary>
+    </item>
+    <item>
+      <title>Loud As FUCK Mix</title>
+      <link>http://cm85.github.io/DjDylz/Dj_Dylz/Podcast/Entries/2015/8/13_Loud_As_FUCK_Mix.html</link>
+      <guid isPermaLink="false">72eff07d-3b18-4883-9a63-4148076e535c</guid>
+      <pubDate>Thu, 13 Aug 2015 07:38:31 -0700</pubDate>
+      <description>&lt;a href=&quot;http://cm85.github.io/DjDylz/Dj_Dylz/Media/02%2002%20Loud%20as%20FUCK%20Mix.m4a.m4a&quot;&gt;&lt;img src=&quot;http://cm85.github.io/DjDylz/Dj_Dylz/Podcast/Media/Loud%20as%20Fuck%20Mix_1.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:157px; height:157px;&quot;/&gt;&lt;/a&gt;&lt;br/&gt;                Dark Day Mix&lt;br/&gt;       Album: Dj Dylz Mixed Tapes&lt;br/&gt;      Produced By: Dylan Mccluney&lt;br/&gt;                 Artist: Dj Dylz&lt;br/&gt;                  Format: m4a&lt;br/&gt;                   Time: 54:48&lt;br/&gt;&lt;br/&gt;</description>
+      <enclosure url="http://cm85.github.io/DjDylz/Dj_Dylz/Media/02%2002%20Loud%20as%20FUCK%20Mix.m4a.m4a" length="26977250" type="audio/x-m4a"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>00:54:48</itunes:duration>
+      <itunes:subtitle>&#13;                Dark Day Mix&#13;       Album: Dj Dylz Mixed Tapes&#13;      Produced By: Dylan Mccluney&#13;                 Artist: Dj Dylz&#13;                  Format: m4a&#13;                   Time: 54:48&#13;&#13;</itunes:subtitle>
+      <itunes:summary>&#13;                Dark Day Mix&#13;       Album: Dj Dylz Mixed Tapes&#13;      Produced By: Dylan Mccluney&#13;                 Artist: Dj Dylz&#13;                  Format: m4a&#13;                   Time: 54:48&#13;&#13;</itunes:summary>
+    </item>
+    <item>
+      <title>Rave Vibes Mix</title>
+      <link>http://cm85.github.io/DjDylz/Dj_Dylz/Podcast/Entries/2015/8/13_Rave_Vibes_Mix.html</link>
+      <guid isPermaLink="false">fba640e0-c5bc-45d5-bd33-97ec0e02ff79</guid>
+      <pubDate>Thu, 13 Aug 2015 07:32:18 -0700</pubDate>
+      <description>&lt;a href=&quot;http://cm85.github.io/DjDylz/Dj_Dylz/Media/05%205.%20Rave%20Vibes%20Mix.m4a&quot;&gt;&lt;img src=&quot;http://cm85.github.io/DjDylz/Dj_Dylz/Podcast/Media/Rave%20Vibes%20Mix_1.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:157px; height:157px;&quot;/&gt;&lt;/a&gt;&lt;br/&gt;Rave Vibes Mix&lt;br/&gt;       Album: Its Always Dark In The Jungle&lt;br/&gt;      Produced By: Dylan Mccluney        Artist: Dj Dylz&lt;br/&gt; Format: m4a                                       Time: 23:30&lt;br/&gt;&lt;br/&gt;</description>
+      <enclosure url="http://cm85.github.io/DjDylz/Dj_Dylz/Media/05%205.%20Rave%20Vibes%20Mix.m4a" length="46631824" type="audio/x-m4a"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>00:23:30</itunes:duration>
+      <itunes:subtitle>&#13;Rave Vibes Mix&#13;       Album: Its Always Dark In The Jungle&#13;      Produced By: Dylan Mccluney        Artist: Dj Dylz&#13; Format: m4a                                       Time: 23:30&#13;&#13;</itunes:subtitle>
+      <itunes:summary>&#13;Rave Vibes Mix&#13;       Album: Its Always Dark In The Jungle&#13;      Produced By: Dylan Mccluney        Artist: Dj Dylz&#13; Format: m4a                                       Time: 23:30&#13;&#13;</itunes:summary>
+    </item>
+    <item>
+      <title>Original Sin Inspired Mix</title>
+      <link>http://cm85.github.io/DjDylz/Dj_Dylz/Podcast/Entries/2015/8/13_Original_Sin_Inspired_Mix.html</link>
+      <guid isPermaLink="false">821f807c-c1e6-496d-9a69-5c7d9afa0aed</guid>
+      <pubDate>Thu, 13 Aug 2015 07:31:38 -0700</pubDate>
+      <description>&lt;a href=&quot;http://cm85.github.io/DjDylz/Dj_Dylz/Media/04%2004%20Original%20Sin%20Inspired%20Mix.m4a.m4a&quot;&gt;&lt;img src=&quot;http://cm85.github.io/DjDylz/Dj_Dylz/Podcast/Media/Original%20Sin%20Mix_1.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:157px; height:157px;&quot;/&gt;&lt;/a&gt;&lt;br/&gt;         Original Sin Inspired Mix&lt;br/&gt;       Album: Dj Dylz Mixed Tapes&lt;br/&gt;      Produced By: Dylan Mccluney&lt;br/&gt;                  Artist: Dj Dylz&lt;br/&gt;                   Format: m4a&lt;br/&gt;                   Time: 01:02&lt;br/&gt;&lt;br/&gt;</description>
+      <enclosure url="http://cm85.github.io/DjDylz/Dj_Dylz/Media/04%2004%20Original%20Sin%20Inspired%20Mix.m4a.m4a" length="30085725" type="audio/x-m4a"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>01:01:02</itunes:duration>
+      <itunes:subtitle>&#13;         Original Sin Inspired Mix&#13;       Album: Dj Dylz Mixed Tapes&#13;      Produced By: Dylan Mccluney&#13;                  Artist: Dj Dylz&#13;                   Format: m4a&#13;                   Time: 01:02&#13;&#13;</itunes:subtitle>
+      <itunes:summary>&#13;         Original Sin Inspired Mix&#13;       Album: Dj Dylz Mixed Tapes&#13;      Produced By: Dylan Mccluney&#13;                  Artist: Dj Dylz&#13;                   Format: m4a&#13;                   Time: 01:02&#13;&#13;</itunes:summary>
+    </item>
+  </channel>
+</rss>

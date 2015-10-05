@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="E3AFCFFD-8D9B-4F4E-9BDB-D3995F3907EF">
+  <lastEdited clientType="local-build-20150814" date="2015-08-14 13:56:31 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Drug Problem Mix&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&#xD;               Drug Problem Mix&#xD;        Album: Dj Dylz Mixed Tapes&#xD;      Produced By: Dylan Mccluney&#xD;                   Artist: Dj Dylz&#xD;                    Format: m4a&#xD;                    Time: 28:02&#xD;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, August 12, 2015&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Drug Problem Mix</richText>
+  </textBox>
+</content>

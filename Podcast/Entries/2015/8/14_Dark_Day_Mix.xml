@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="E3AFCFFD-8D9B-4F4E-9BDB-D3995F3907EF">
+  <lastEdited clientType="local-build-20151005" date="2015-10-05 11:23:28 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Dark Day Mix&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&#xD;                Dark Day Mix&#xD;       Album: Dj Dylz Mixed Tapes&#xD;      Produced By: Dylan Mccluney&#xD;                 Artist: Dj Dylz&#xD;                  Format: m4a&#xD;                 Time: 01:28:34&#xD;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, August 14, 2015&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Dark Day Mix</richText>
+  </textBox>
+</content>
